@@ -1,9 +1,9 @@
 ![badge](https://img.shields.io/badge/license-MIT-blue)
 
-# Best Project
+# Unit 09 Homework: Professional README Generator
 
 ## Description
-This is a test to demostrate functionality
+This javascript code was designed to generate professional README files in a simple and efficient way.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -15,22 +15,26 @@ This is a test to demostrate functionality
 
 ## Installation
 To install necessary dependencies, run the following command.
-* npm i
-
+````bash
+npm i
+````
 
 ## Usage
-This is a test
+Run the index.js file provided and enter information when prompted.
+
+[Video Tutorial](https://drive.google.com/file/d/14oSWdSVTmpAvfwwE15MKj2jZ4n-h7TOr/view)
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
-Please don't
+No thanks. 🙂
 
 ## Tests
 To run tests, run the following command.
-* npm test
+```bash
+npm test
+```
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at [email@gmail.com](email@gmail.com). You can find more of my work at [kelsey](https://github.com/kelsey). 
-
+If you have any questions about the repo, open an issue or contact me directly at [kelseyeckelberry@gmail.com](kelseyeckelberry@gmail.com). You can find more of my work at [kelseyeckelberry](https://github.com/kelseyeckelberry). 
